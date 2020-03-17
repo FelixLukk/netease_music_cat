@@ -14,8 +14,11 @@ import logging
 # 以下为自定义配置，请自行更改===============================================
 
 # 用户信息
-user_id = "474252223"
-user_name = "IsolationTom"
+# user_id = "474252223"
+# user_name = "IsolationTom"
+
+user_id = "1493673206"
+user_name = "felixlukk"
 
 # user_id = "454050899"
 # user_name = "樱木卓轩"
@@ -38,7 +41,7 @@ user_name = "IsolationTom"
 database_user_name = "root"
 
 # 数据库用户密码
-database_user_pwd = "1233"
+database_user_pwd = "Whosyourdaddy"
 
 # 数据库端口
 database_port = 3306
@@ -205,10 +208,13 @@ eapi_params = {
 }
 
 # 用于测试的歌曲id
-song_id = "656405"
+# song_id = "656405"
+song_id = "1297729"
 
 # 用于测试的歌单id
-playlist_id = "13928655"
+# playlist_id = "13928655"
+playlist_id = "2628960735"
+
 
 # 日志信息
 logger_name = "logger"
